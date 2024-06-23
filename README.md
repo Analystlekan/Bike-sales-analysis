@@ -41,6 +41,7 @@ For this project, I used Microsoft Excel as the primary tool for data analysis a
 
 3. **Customer Age Bracket**: A bar chart showing the distribution of customers across different age brackets.
 
+![Screenshot (3)](https://github.com/Analystlekan/Bike-sales-analysis/assets/172055479/44c302bf-4d05-4d6e-bbbf-f9d0da8597e8)
 ## Conclusion
 
 This data analysis project in Excel provides valuable insights into bike sales and customer demographics. The interactive visualizations help in understanding various aspects of customer behavior, such as commute distance, income, and age. By the end of the project, we aim to uncover actionable recommendations that can drive improvements in sales strategies and enhance customer targeting, all within the user-friendly environment of Excel.

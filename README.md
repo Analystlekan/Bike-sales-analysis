@@ -31,7 +31,7 @@ The primary objective of this project is to gain insights into bike sales perfor
 
 ### Step 3: Sales Performance Analysis
 - Customer Analysis: Segmented customers based on demographics and analyzed their purchasing behavior.
-
+![Screenshot (3)](https://github.com/Analystlekan/Bike-sales-analysis/assets/172055479/a22380d3-15af-44d5-98a7-51d505aafdca)
 ### Step 4: Recommendations
 - Key Insights: Summarized findings such as peak sales periods, and customer preferences.
 - Recommendations: Suggested strategies to increase sales, improve customer retention, and optimize marketing efforts based on insights.

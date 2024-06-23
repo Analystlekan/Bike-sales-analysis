@@ -1,42 +1,47 @@
 
-## Bike Sales Analysis Project
+# Bike Sales Dashboard
+
+## Introduction
+
+In this data analysis project, I have created a comprehensive Excel dashboard to analyze bike sales based on various customer demographics and attributes. The dataset includes information about marital status, gender, income, children, education, occupation, home ownership, number of cars, commute distance, region, age, and whether the customer purchased a bike. The goal of this project is to gain insights into customer behavior and identify key factors that influence bike purchases.
+
+## Dataset Description
+
+The dataset used for this project consists of the following columns:
+- **Marital Status**: The marital status of the customer (e.g., single, married).
+- **Gender**: The gender of the customer.
+- **Income**: The annual income of the customer.
+- **Children**: The number of children the customer has.
+- **Education**: The highest level of education attained by the customer.
+- **Occupation**: The occupation of the customer.
+- **Home Owner**: Whether the customer owns a home.
+- **Cars**: The number of cars owned by the customer.
+- **Commute Distance**: The distance the customer commutes to work.
+- **Region**: The region where the customer lives.
+- **Age**: The age of the customer.
+- **Purchased Bike**: Whether the customer purchased a bike (yes/no).
+
+## Tools and Software
+
+For this project, I used Microsoft Excel as the primary tool for data analysis and visualization. Excel provides a versatile and accessible platform for performing data analysis, creating charts, and building interactive dashboards.
+
+## Expected Deliverables
+
+1. **Excel Dashboard**: The complete data analysis process, including data cleaning, transformation, and visualization.
+2. **Visualizations**: A variety of charts and graphs to support key findings and insights.
+3. **Final Report**: A comprehensive summary of the analysis, insights, and recommendations.
+
+## Visualizations
+
+1. **Customer Commute Distance**: A bar chart showing the distribution of customers based on their commute distance.
 
 
+2. **Average Income per Purchase**: A bar chart showing the average income of customers who purchased a bike.
+ 
 
-## Overview
+3. **Customer Age Bracket**: A bar chart showing the distribution of customers across different age brackets.
 
-This project involves analyzing bike sales data to derive insights and make data-driven decisions. The dataset includes information about bike sales, such as sales figures, product details, customer demographics, and sales channels. Using Microsoft Excel, various analytical techniques and visualizations were employed to explore trends, patterns, and performance metrics related to bike sales.
+## Conclusion
 
-## Objective
-
-The primary objective of this project is to gain insights into bike sales performance and trends, identify key factors influencing sales, and provide actionable recommendations to optimize sales strategies and improve business outcomes.
-
-## Contents
-
-1. **Data**: Contains the raw dataset used for analysis.
-2. **Analysis**: Includes Excel files with analysis sheets, charts, and pivot tables.
-3. **Reports**: Contains summary reports and presentations of key findings.
-4. **Documentation**: This README.md file provides an overview of the project.
-
-## Analysis Steps
-
-### Step 1: Data Cleaning and Preparation
-- Dataset: The dataset was imported into Excel from a CSV file.
-- Data Cleaning: Removed duplicates, handled missing values, and formatted data for consistency.
-- Data Transformation: Calculated additional metrics (e.g.average sales per customer).
-
-### Step 2: Exploratory Data Analysis (EDA)
-- Descriptive Statistics**: Calculated summary statistics (mean, median, mode, etc.) for key variables.
-- Visualizations**: Created charts (e.g., bar charts, line graphs) to visualize sales trends over time, by product category, and customer segments.
-
-### Step 3: Sales Performance Analysis
-- Customer Analysis: Segmented customers based on demographics and analyzed their purchasing behavior.
-![Screenshot (3)](https://github.com/Analystlekan/Bike-sales-analysis/assets/172055479/a22380d3-15af-44d5-98a7-51d505aafdca)
-### Step 4: Recommendations
-- Key Insights: Summarized findings such as peak sales periods, and customer preferences.
-- Recommendations: Suggested strategies to increase sales, improve customer retention, and optimize marketing efforts based on insights.
-
-## Future Enhancements
-- Incorporate predictive modeling to forecast future sales trends.
-- Integrate external data sources (e.g., economic indicators, weather data) for deeper analysis.
+This data analysis project in Excel provides valuable insights into bike sales and customer demographics. The interactive visualizations help in understanding various aspects of customer behavior, such as commute distance, income, and age. By the end of the project, we aim to uncover actionable recommendations that can drive improvements in sales strategies and enhance customer targeting, all within the user-friendly environment of Excel.
 
